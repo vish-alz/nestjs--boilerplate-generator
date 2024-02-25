@@ -1,0 +1,31 @@
+{
+  "name": "nestjs-api-boilerplate",
+  "version": "1.0.0",
+  "description": "A comprehensive boilerplate for building scalable, maintainable, and production-ready API services with NestJS, specifically tailored for MySQL database integration.",
+  "main": "index.js",
+  "bin": {
+    "create-nestjs-api-boilerplate": "./create-boilerplate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vish-alz/nestjs-api-boilerplate.git"
+  },
+  "keywords": [
+    "nestjs",
+    "jwt",
+    "mysql",
+    "docker",
+    "boilerplate",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Vishal Ranaut <vishalkumar17153@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vish-alz/nestjs-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/vish-alz/nestjs-api-boilerplate#readme"
+}

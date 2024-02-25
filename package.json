@@ -4,11 +4,12 @@
   "description": "A comprehensive boilerplate for building scalable, maintainable, and production-ready API services with NestJS, specifically tailored for MySQL database integration.",
   "main": "index.js",
   "bin": {
-    "create-nestjs-api-boilerplate": "./create-boilerplate.js"
+    "create-nestjs-api-boilerplate": "./dist/createBoilerplate.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vish-alz/nestjs-api-boilerplate.git"
@@ -27,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/vish-alz/nestjs-api-boilerplate/issues"
   },
-  "homepage": "https://github.com/vish-alz/nestjs-api-boilerplate#readme"
+  "homepage": "https://github.com/vish-alz/nestjs-api-boilerplate#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  }
 }

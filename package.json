@@ -1,6 +1,6 @@
 {
   "name": "nestjs-api-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A comprehensive boilerplate for building scalable, maintainable, and production-ready API services with NestJS, specifically tailored for MySQL database integration.",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,6 @@
   "scripts": {
     "build": "tsc"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vish-alz/nestjs-api-boilerplate.git"

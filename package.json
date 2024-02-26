@@ -17,6 +17,7 @@
     "nestjs",
     "jwt",
     "mysql",
+    "swagger",
     "docker",
     "boilerplate",
     "typescript",

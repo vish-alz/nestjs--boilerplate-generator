@@ -20,7 +20,8 @@
     "docker",
     "boilerplate",
     "typescript",
-    "nodejs"
+    "nodejs",
+    "backend"
   ],
   "author": "Vishal Ranaut <vishalkumar17153@gmail.com>",
   "license": "MIT",
@@ -29,6 +30,7 @@
   },
   "homepage": "https://github.com/vish-alz/nestjs-api-boilerplate#readme",
   "devDependencies": {
-    "@types/node": "^20.11.20"
+    "@types/node": "^20.11.20",
+    "typescript": "^5.3.3"
   }
 }

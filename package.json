@@ -4,7 +4,7 @@
   "description": "A comprehensive boilerplate for building scalable, maintainable, and production-ready API services with NestJS, specifically tailored for MySQL database integration.",
   "main": "index.js",
   "bin": {
-    "create-nestjs-api-boilerplate": "./dist/createBoilerplate.js"
+    "create-nestjs-api-boilerplate": "./dist/create.boilerplate.js"
   },
   "scripts": {
     "build": "tsc"
